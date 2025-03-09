@@ -32,7 +32,7 @@ Here are some technical writing papers for Uni!
 
 | 🌟 **Paper** | ✨ **Description** |
 |--------------------|----------------|
-| 🗂️ **[Lossless Compression Algorithms](link)** | A paper that compares **compression algorithms** based on **speed, compression ratio, and entropy** |
+| 🗂️ **[Lossless Compression Algorithms](https://github.com/monica-raluca/Lossless-Data-Compression-Algorithms)** | A paper that compares **compression algorithms** based on **speed, compression ratio, and entropy** |
 | 🤖 **[The Impact of Artificial Intelligence in the Learning Process of Students](https://github.com/monica-raluca/The-Impact-of-Artificial-Intelligence-in-the-Learning-Process)** | A paper that studies in which way **AI affects or benefits students** |
 | 🖥️ **[Writing a compiler from scratch](https://github.com/monica-raluca/Writing-a-compiler-from-scratch)** | A paper written to improve technical writing skills and study about **compilers** |
 
